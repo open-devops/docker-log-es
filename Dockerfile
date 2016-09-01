@@ -7,9 +7,9 @@ FROM alpine
 
 MAINTAINER Open DevOps Team <open.devops@gmail.com>
 
-ENV REFRESHED_AT 2016-08-25
+ENV REFRESHED_AT 2016-09-01
 
-ENV ES_VERSION=5.0.0-alpha5
+ENV ES_VERSION=2.3.5
 
 # Default to UTF-8 file.encoding
 ENV LANG C.UTF-8
