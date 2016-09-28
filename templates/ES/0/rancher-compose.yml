@@ -1,0 +1,7 @@
+.catalog:
+  name:  OpenDevOps-ES
+  version:  1.0.0
+  description:  Elasticsearch Docker Image for Logging Server
+  uuid: #
+  minimum_rancher_version: #
+  questions: #

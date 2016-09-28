@@ -1,0 +1,3 @@
+#  Elasticsearch Docker Image for Logging Server
+ES:
+  image:  devopsopen/docker-log-es
